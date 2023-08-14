@@ -22,9 +22,11 @@ Tired of CDN solutions that play it safe? Welcome to the world of CreaNex CDN, t
 
 ## Getting "Started"
 
-To introduce an element of surprise into your projects, simply integrate our classes. Watch as your designs take on a life of their own – a life filled with glorious, unpredictable mayhem.
+To include CreaNex CDN in your project, add the following links to your HTML:
 
-Join us on this wild journey of design exploration. Embrace the chaos, embrace the unpredictability. CreaNex CDN – Where Creativity Takes a Detour!
+### HTML
 
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/creanex@1.0.0">
 ---
 
